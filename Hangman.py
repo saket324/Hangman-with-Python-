@@ -1,7 +1,7 @@
 import random
 # library in order to choose random words
 
-name = input("What is your name? ") #Asking user for thier name
+name = input("What is your name? ") #Asking user for their name
  
 print("Good Luck ! ", name)
  
